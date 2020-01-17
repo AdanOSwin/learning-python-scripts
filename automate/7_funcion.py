@@ -12,4 +12,3 @@ hello()
 print('###############################################')
 
 nombre = input('Ingresar nombre: ')
-saluda('nombre')
